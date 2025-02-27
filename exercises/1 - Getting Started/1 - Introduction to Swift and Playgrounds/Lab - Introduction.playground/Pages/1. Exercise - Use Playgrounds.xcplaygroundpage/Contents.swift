@@ -10,7 +10,11 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("\nTitle: Borderline")
+print("Composer, Producer, Artist: Tame Impala")
+print("Gone a little far, gone a little far this time with something")
+print("How was I to know, how was I to know this high came rushing")
+print("We're on the borderline, dangerously fine and unforgiving")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
