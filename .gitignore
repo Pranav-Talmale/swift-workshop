@@ -1,0 +1,30 @@
+# Xcode
+#
+# User-specific files
+*xcuserdata/
+*.xcuserstate
+
+# Build data
+*build/
+
+# Playground data
+*Playground.xcworkspace/
+*Playground.playgroundbook/
+
+# Swift Package Manager
+# SwiftPM
+*/.build/
+*/Package.resolved
+
+# CocoaPods
+*Pods/
+
+# Carthage
+*Carthage/
+
+# Xcode 12 and later
+*DerivedData/
+
+# macOS Finder files
+*.DS_Store
+
