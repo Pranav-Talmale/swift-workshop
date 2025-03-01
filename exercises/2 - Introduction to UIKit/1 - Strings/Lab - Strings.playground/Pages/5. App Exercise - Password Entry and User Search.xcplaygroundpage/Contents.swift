@@ -28,6 +28,7 @@ for user in users{
     user.lowercased().contains(searchName.lowercased()) ? print("Found Name \(user)") : print("Did not find any users with the name \(searchName)")
 }
 
+// userName.lowercased().contains(searchName.lowercased()) ? print("Found Name \(userName)") : print("Did not find any users with the name \(searchName)")
 /*:
  _Copyright © 2021 Apple Inc._
 
